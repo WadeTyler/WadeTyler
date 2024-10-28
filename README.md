@@ -1,6 +1,8 @@
 ## Hi, I'm Tyler Wade
 
-# * I've been coding for over 5 years. Primarily in JavaScript and C#.
+* I've been coding for over 5 years. Primarily in JavaScript and Java.
+* I'm the founder of [Guided Gospel](https://guidedgospel.net)
+* You can check out my portfolio at [Tyler Wade.net](https://tylerwade.net)
 
 <!--
 **WadeTyler/WadeTyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
