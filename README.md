@@ -1,4 +1,6 @@
-## Hi, I'm Tyler Wade 👋
+## Hi, I'm Tyler Wade
+
+# * I've been coding for over 5 years. Primarily in JavaScript and C#.
 
 <!--
 **WadeTyler/WadeTyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
