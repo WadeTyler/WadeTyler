@@ -1,10 +1,12 @@
 ## Hi, I'm Tyler Wade
 
-* I've been coding for over 5 years. Primarily in JavaScript and Java.
+* I've been coding for over 5 years. Primarily in Java and JavaScript.
 * I'm the founder of [Guided Gospel](https://guidedgospel.net)
 * You can check out my portfolio at [Tyler Wade.net](https://tylerwade.net)
 
-I've been programming since I was a freshman in High School. Growing up I was a big fan of video games, and I always wanted to learn how to make them myself. So I got started with python at school, and C# and Unity at home. Although I love making video games, I came to find out I love web development more! I wanted to create something unique that people could genuinely use. That's when I founded Guided Gospel, a Christian based AI web hub, where users can ask their questions and get bible based guidance within seconds. Alongside that they can utilize the built in tools and features to help in their faith journey.
+I'm a software engineer with over 5 years of programming experience, specializing in web development and backend systems. My journey began in high school, sparked by a passion for video games, where I first learned Python in the classroom and experimented with C# and Unity at home.
+
+While game development introduced me to the world of code, I found a deeper interest in building scalable and efficient web applications. Since then, I've focused on backend development using technologies like Java Spring Boot, Node.js, AWS, and continue to grow my expertise across the software development stack.
 <!--
 **WadeTyler/WadeTyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
